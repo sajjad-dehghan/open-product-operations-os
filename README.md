@@ -1,3 +1,44 @@
+<!-- visual-showroom:start -->
+<p align="center">
+  <img src="docs/showroom/readme-banner.svg" alt="Open Product Operations OS — repository cover" width="100%">
+</p>
+
+<p align="center">
+  <strong>Open Product Operations OS</strong><br>
+  PRODUCT &amp; EXPERIENCE
+</p>
+
+<p align="center">
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/open-product-operations-os"><strong>Explore the showroom ↗</strong></a> ·
+  <a href="#implementation--original-documentation">Setup &amp; implementation ↓</a>
+</p>
+
+A set of agents, workbooks, and QA checks for taking an idea all the way to release. It keeps every decision tied to evidence and doesn't depend on any one vendor.
+
+## Visual tour
+
+[![Contract boundary](docs/showroom/readme-view-1.svg)](https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/open-product-operations-os)
+
+<p align="center">
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/open-product-operations-os"><img src="docs/showroom/readme-view-2.svg" alt="Architecture diagram from repository documentation · not a UI screenshot" width="48%"></a>
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/open-product-operations-os"><img src="docs/showroom/readme-view-3.svg" alt="Event lifecycle" width="48%"></a>
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/open-product-operations-os"><img src="docs/showroom/readme-view-4.svg" alt="Product operations" width="48%"></a>
+</p>
+
+1. Contract boundary
+2. Architecture diagram from repository documentation · not a UI screenshot
+3. Event lifecycle
+4. Product operations
+
+Original repository documentation diagrams, not interface screenshots.
+
+## Implementation & original documentation
+
+The existing run instructions, architecture, limitations and credits are preserved below.
+
+---
+<!-- visual-showroom:end -->
+
 <div align="center">
   <img src=".github/assets/og.png" alt="Open Product Operations OS — from signal to evidence-backed release" width="100%">
 
